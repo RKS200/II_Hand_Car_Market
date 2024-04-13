@@ -5,7 +5,7 @@ Department of Electronics and Communications Engineering,
 Rajalakshmi Institute of Technology
 _______________________________________________________________
 This project is aimed at creating a working model of 2nd hand car sales platform using Python and data maintained by SQL.
-###FEATURES
+### FEATURES
 * User Authentication.
 * Admin Account. (for management)
 * Advanced Search Options for buying.
