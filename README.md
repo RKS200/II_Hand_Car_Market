@@ -12,6 +12,6 @@ This project is aimed at creating a working model of 2nd hand car sales platform
 * Cars are uniquely identified with its registration number.
 * Can be run with default installation of Python. (i.e. No extra modules need to be installed)
 * Data can be exported as a .csv file. (only for admin)
-![FlowDiagram](https://github.com/RKS200/II_Hand_Car_Market/blob/main/Block.pn)
+![FlowDiagram](https://github.com/RKS200/II_Hand_Car_Market/blob/main/Block.png)
 
 
